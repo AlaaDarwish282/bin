@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'laravel/laravel',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => NULL,
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'reference' => 'afe0a748780ba815c37f1d2b79df1ea05cc6e822',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -29,9 +29,9 @@
             'dev_requirement' => false,
         ),
         'aws/aws-sdk-php' => array(
-            'pretty_version' => '3.247.0',
-            'version' => '3.247.0.0',
-            'reference' => '2cd51e75e753dfe1f1677bb0a2e13a9ce70cba26',
+            'pretty_version' => '3.247.1',
+            'version' => '3.247.1.0',
+            'reference' => '337e447997148b9e5024c2d0ae69618b1cbf80d6',
             'type' => 'library',
             'install_path' => __DIR__ . '/../aws/aws-sdk-php',
             'aliases' => array(),
@@ -569,9 +569,9 @@
             'dev_requirement' => false,
         ),
         'laravel/laravel' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => NULL,
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => 'afe0a748780ba815c37f1d2b79df1ea05cc6e822',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
